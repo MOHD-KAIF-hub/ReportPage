@@ -88,7 +88,7 @@ function SubmitCaseForm() {
   };
 
   return (
-    <div className=' h-[740px] sm:h-[650px] w-[90%]  pt-4 rounded-md bg-white shadow-lg my-3 mx-auto'>
+    <div className=' h-[740px] sm:h-[640px] w-[90%]  pt-4 rounded-md bg-white shadow-lg my-3 mx-auto'>
       <h2 className="text-xl font-bold mb-4 mx-3">Submit a Case to our Customer Support Team</h2>
 
       <form onSubmit={handleSubmit}>
